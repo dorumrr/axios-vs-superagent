@@ -1,0 +1,16 @@
+{
+  "name": "axios-vs-superagent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Doru Moraru",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "benchmark": "^2.1.4",
+    "superagent": "^6.1.0"
+  }
+}

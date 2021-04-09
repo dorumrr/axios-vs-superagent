@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+
+# katakoda related
+.npm
+.cache
+.config
+.local
+.ssh
+.profile
+.gitconfig
+.bashrc
